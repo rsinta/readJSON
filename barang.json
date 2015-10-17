@@ -1,0 +1,26 @@
+[
+     {
+      "id_barang":"4",
+      "nama_barang":"Processor",
+      "harga":"3000000",
+      "kondisi":"OK"
+   },
+   {
+      "id_barang":"5",
+      "nama_barang":"Kipas",
+      "harga":"75000",
+      "kondisi":"OK"
+   },
+   {
+      "id_barang":"6",
+      "nama_barang":"Kulkas",
+      "harga":"1200000",
+      "kondisi":"OK"
+   },
+   {
+      "id_barang":"7",
+      "nama_barang":"Laptop",
+      "harga":"6000000",
+      "kondisi":"OK"
+   }
+ ]

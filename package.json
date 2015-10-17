@@ -1,0 +1,15 @@
+{
+  "name": "XML",
+  "version": "0.0.0",
+  "description": "Proyek Node.js XML - display XML contens",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [
+    "xml-display",
+    "xml2js"
+  ],
+  "author": "reiki",
+  "license": "BSD-2-Clause"
+}
